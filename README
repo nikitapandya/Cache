@@ -1,3 +1,6 @@
+The cache lab is a C program that simulates the behavior of a cache memory. The simulator takes in a valgrind memory trace as input, and simulates the hit/miss behavior of a cache memory and outputs the total number of hits, misses, and evictions. The trace files gives parameters such as the number of set index and block bits, associativity and instructions such as store, load and modify. 
+
+
 This is the handout directory for the CS:APP Cache Lab. 
 
 ************************
